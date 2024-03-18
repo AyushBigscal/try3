@@ -1,0 +1,13 @@
+.container{
+    height: 10vh;
+    background-color: brown;
+    display: flex;
+    justify-content: space-between;
+}
+.header, .logo{
+  padding: 1rem;
+}
+.link{
+    padding: 1rem 2.5rem;
+    font-size: 2rem;
+}
